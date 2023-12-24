@@ -1,0 +1,10 @@
+1. Mengenal JS
+
+* console.log('Pesan')
+    > Digunakan untuk menampilkan pesan ke konsol (Mode developer di web browser)
+
+* alern('Pesan')
+    > Digunakan untuk menampilkan pop-up pesan pada web browser
+
+* document.write('Pesan')
+    > Digunakan untuk menampilkan pesan di layout HTML
