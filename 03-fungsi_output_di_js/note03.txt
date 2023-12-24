@@ -1,0 +1,22 @@
+03 Fungsi Output di JS
+
+1. Menggunakan fungsi console.log()
+    > fungsi console.log() a/ untuk menampilkan teks ke console JS
+    > fungsi console.log() bisa di gunakan untuk debagging
+    > selain fungsi console.log() terdapat beberapa fungsi
+        . console.debag()
+        . console.info()
+        . console.error()
+        . console.dir()
+
+2. Menggunakan fungsi alert()
+    > fungsi alert() a/ fungsi untuk menampilkan jendela dialog(pop_up)
+    > fungsi alert() hanya bisa di gunakan di dalam browser saja sedangkan di dalam note js tidak bisa
+
+3. Menggunakan fungsi document.write()
+    > object document a/ object yang mewakili dokumen HTML di dalam js
+    > dalam object document terdapat fungsi write() untuk menulis sesuatu ke document HTML
+
+4. Menggunakan innierHTML
+    > innierHTML a/ sebuah atribut di dalam (objek) elemen HTML yang berisi string HTML.
+    > Dengan innerHTML, kita dapat menampilkan output ke elemen yang lebih spesifik.
