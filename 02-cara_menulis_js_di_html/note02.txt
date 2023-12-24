@@ -1,0 +1,13 @@
+02 Cara menulis JS di HTML
+
+1. Menulis js pada tag <script>
+    > tag <script> di buat di dalam tag <body>
+
+2. Menulis js pada file external
+
+3. Menulis js pada atribut
+    > kita dapat menuliskan code js pada atribut event di HTML
+    > Penulisan aribut event di html di awali dengan on == onclick
+
+4. Menulis js pada url
+    > Cara ini tidak bekerja di web browser versi terbaru, karena ini merupakan sebuah celah yang bisa dipakai untuk serangan XSS.
