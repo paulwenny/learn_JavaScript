@@ -1,0 +1,40 @@
+04 TIPE DATA & VARIABEL
+
+
+A. VARIABEL
+
+* Variabel a/ sebuah nama yang mewakili sebuah nilai
+* cara membuat Variabel
+    > var namaVariabel = isiVariabel
+
+* Pada penamaan variabel menngunakan teknik camelCase
+
+* membuat variabel di js dapat menggunakan beberapa kata kunci
+    > var
+    > let
+    > cons
+    > tanpa kata kunci
+        > nilai dari variabel dapat di isi ulang
+        > dapat di hapus nilai dari variabel tersebut
+        > dapat di harus varibel 
+            delete namaVariabel
+
+* Perbedaan pada kata kunci pembuatan variabel di js
+    > jangkauan dan penggunaan dari masing2 kata kunci 
+    > variabel var dan let akan otomatis di hapus dari memori
+
+
+B. TIPE DATA
+
+* Tipe data a/ jenis2 data yang dapat di isikan di dalam variabel
+* ada beberapa tipe data dalam js
+    > string (teks)
+    > Number atau Integer (bilangan bulat)
+    > Float (bilangan Pecahan)
+    > Boolean
+    > Object
+
+* js adalah bahasa pemrograman yang bersifat dynamic typing (tidak perlu mendekalarasikan tipe data)
+
+* cara mengecek tipe data di js 
+    typeof nama_variabel;
